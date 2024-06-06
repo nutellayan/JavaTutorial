@@ -1,7 +1,7 @@
 package com.napier.sem2;
 
 import javax.swing.JOptionPane;
-public class FlowControl {
+public class WhileLoop {
            public static void main(String[] args){
                int counter = 0;
                String output = "";
