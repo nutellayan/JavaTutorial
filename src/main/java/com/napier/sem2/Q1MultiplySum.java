@@ -2,7 +2,7 @@ package com.napier.sem2;
 
 import javax.swing.JOptionPane;
 
-public class One {
+public class Q1MultiplySum {
     public static void main(String[] args) {
         String firstNumberString = JOptionPane.showInputDialog("Enter the first number");
         String secondNumberString = JOptionPane.showInputDialog("Enter the second number");

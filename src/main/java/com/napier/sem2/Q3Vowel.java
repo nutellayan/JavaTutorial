@@ -2,7 +2,7 @@ package com.napier.sem2;
 
 import javax.swing.JOptionPane;
 
-public class Vowel {
+public class Q3Vowel {
     public static void main(String[] args) {
         String output;
         String charAsString;

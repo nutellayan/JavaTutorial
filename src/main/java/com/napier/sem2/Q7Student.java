@@ -2,7 +2,7 @@ package com.napier.sem2;
 
 import javax.swing.*;
 
-public class Student {
+public class Q7Student {
     public static void main(String[] args) {
         int counter = 0;
         int outputPassed = 0;

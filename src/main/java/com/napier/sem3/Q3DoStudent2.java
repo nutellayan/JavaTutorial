@@ -2,7 +2,7 @@ package com.napier.sem3;
 
 import javax.swing.*;
 
-public class DoStudent2 {
+public class Q3DoStudent2 {
     public static void main(String[] args) {
         int outputPassed = 0;
         int outputFailed = 0;

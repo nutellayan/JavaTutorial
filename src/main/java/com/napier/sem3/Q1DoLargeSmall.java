@@ -2,7 +2,7 @@ package com.napier.sem3;
 
 import javax.swing.*;
 
-public class DoLargeSmall {
+public class Q1DoLargeSmall {
     public static void main(String[] args) {
         int largest = Integer.MIN_VALUE;
         int smallest = Integer.MAX_VALUE;

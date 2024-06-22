@@ -1,6 +1,6 @@
 package com.napier.sem3;
 import javax.swing.JOptionPane;
-public class DoStudent {
+public class Q2DoStudent {
     public static void main(String[] args) {
         int counter = 0;
         int outputPassed = 0;

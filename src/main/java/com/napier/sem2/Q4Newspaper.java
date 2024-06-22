@@ -2,7 +2,7 @@ package com.napier.sem2;
 
 import javax.swing.JOptionPane;
 
-public class Newspaper {
+public class Q4Newspaper {
     public static void main(String[] args) {
         String paperDelivered = JOptionPane.showInputDialog("How many papers have you delivered?");
         double output;

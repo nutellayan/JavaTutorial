@@ -2,7 +2,7 @@ package com.napier.sem2;
 
 import javax.swing.JOptionPane;
 
-public class LargeSmall {
+public class Q6LargeSmall {
     public static void main(String[] args) {
         int largest = Integer.MIN_VALUE; // Initialize to the smallest possible value
         int smallest = Integer.MAX_VALUE; // Initialize to the largest possible value
