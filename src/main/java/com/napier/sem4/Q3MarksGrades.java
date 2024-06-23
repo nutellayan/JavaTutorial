@@ -2,7 +2,7 @@ package com.napier.sem4;
 
 import javax.swing.JOptionPane;
 
-public class Q3Marks {
+public class Q3MarksGrades {
     public static void main(String[] args) {
         String marks;
         int intMarks;
