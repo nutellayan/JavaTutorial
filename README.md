@@ -1,4 +1,4 @@
-# <ins>My University Work - Learning Java</ins>
+# <ins>My University Work - Learning Java</ins>:EMOJICODE::grinning:
 
 This repository contains code for my university course on Java programming. The code covers various fundamental concepts of Java, including:
 
@@ -12,6 +12,6 @@ This repository contains code for my university course on Java programming. The 
 
 **Unit 5** - Methods: Explains how to create reusable blocks of code called methods, promoting code modularity and organization.
 
-**Unit 6** - Workbook (Optional): May contain practice exercises or projects to solidify your understanding of the covered concepts.
+**Unit 6** - Workbook: May contain practice exercises or projects to solidify your understanding of the covered concepts.
 
-**Unit 7** - Introduction to Objects (Optional): Provides a foundational understanding of object-oriented programming (OOP) concepts like objects, classes, and inheritance.
+**Unit 7** - Introduction to Objects: Provides a foundational understanding of object-oriented programming (OOP) concepts like objects, classes, and inheritance.
