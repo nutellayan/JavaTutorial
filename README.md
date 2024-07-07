@@ -1,4 +1,4 @@
-# <ins>My University Work - Learning Java</ins>:grinning:
+# <ins>My University Work - Learning Java</ins>:collision:
 
 This repository contains code for my university course on Java programming. The code covers various fundamental concepts of Java, including:
 
