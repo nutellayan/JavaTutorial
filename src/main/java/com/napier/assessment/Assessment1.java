@@ -49,9 +49,9 @@ public class Assessment1 {
     public static int generateRandomNumber(int rowIndex) {
         Random numGenerator = new Random();
         if (rowIndex % 2 == 0) { // even row index
-            return 2 * numGenerator.nextInt(501); // even number between 0 and 1000
-        } else { // odd row index
             return 2 * numGenerator.nextInt(500) + 1; // odd number between 0 and 999
+        } else { // odd row index
+            return 2 * numGenerator.nextInt(501); // even number between 0 and 1000
         }
     }
 }
