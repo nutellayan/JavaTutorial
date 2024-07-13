@@ -20,6 +20,6 @@ public class Practise2 {
         output = "The result of dividing " + firstNumber + " by 2 is " + result;
 
         // Display the result using a dialog box
-        JOptionPane.showMessageDialog(null, output);
+        JOptionPane.showMessageDialog(null, output, "A Message", JOptionPane.INFORMATION_MESSAGE);
     }
 }
